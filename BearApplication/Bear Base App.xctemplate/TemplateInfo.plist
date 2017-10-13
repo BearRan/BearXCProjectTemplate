@@ -28,6 +28,8 @@
 					<key>Nodes</key>
 					<array>
 						<string>Constant/readme.h</string>
+						<string>Constant/Constant.h</string>
+						<string>Constant/Constant.m</string>
 						<string>Function/HomeVC/readme.h</string>
 						<string>SymbolUI/readme.h</string>
 						<string>Manager/readme.h</string>
@@ -47,6 +49,20 @@
 		<dict>
 			<key>Path</key>
 			<string>Constant/readme.h</string>
+			<key>Group</key>
+			<string>Constant</string>
+		</dict>
+		<key>Constant/Constant.h</key>
+		<dict>
+			<key>Path</key>
+			<string>Constant/Constant.h</string>
+			<key>Group</key>
+			<string>Constant</string>
+		</dict>
+		<key>Constant/Constant.m</key>
+		<dict>
+			<key>Path</key>
+			<string>Constant/Constant.m</string>
 			<key>Group</key>
 			<string>Constant</string>
 		</dict>
