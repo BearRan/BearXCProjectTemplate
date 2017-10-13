@@ -8,3 +8,5 @@ echo "\n""destinationPath:\n"$destinationPath
 
 #copy
 cp -Rf $currentShellPath /Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/Project\ Templates
+
+echo "\nCopy Finish!"

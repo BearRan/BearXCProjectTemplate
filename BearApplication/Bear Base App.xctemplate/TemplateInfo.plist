@@ -35,6 +35,7 @@
 						<string>Request/readme.h</string>
 						<string>Base/readme.h</string>
 						<string>3rd/readme.h</string>
+						<string>../Podfile</string>
 					</array>
 				</dict>
 			</dict>
@@ -97,6 +98,11 @@
 			<string>3rd/readme.h</string>
 			<key>Group</key>
 			<string>3rd</string>
+		</dict>
+		<key>../Podfile</key>
+		<dict>
+			<key>Path</key>
+			<string>Podfile</string>
 		</dict>
 	</dict>
 </dict>
