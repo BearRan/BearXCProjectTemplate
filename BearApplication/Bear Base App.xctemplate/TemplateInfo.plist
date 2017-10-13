@@ -27,7 +27,6 @@
 				<dict>
 					<key>Nodes</key>
 					<array>
-						<string>Constant/readme.h</string>
 						<string>Constant/Constant.h</string>
 						<string>Constant/Constant.m</string>
 						<string>Function/HomeVC/readme.h</string>
@@ -45,13 +44,6 @@
 	</array>
 	<key>Definitions</key>
 	<dict>
-		<key>Constant/readme.h</key>
-		<dict>
-			<key>Path</key>
-			<string>Constant/readme.h</string>
-			<key>Group</key>
-			<string>Constant</string>
-		</dict>
 		<key>Constant/Constant.h</key>
 		<dict>
 			<key>Path</key>
